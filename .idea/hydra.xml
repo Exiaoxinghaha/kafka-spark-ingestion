@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HydraSettings">
+    <option name="hydraStorePath" value="D:\Scala\workspace\kafka-spark-ingestion\.hydra\idea" />
+    <option name="noOfCores" value="4" />
+    <option name="projectRoot" value="D:\Scala\workspace\kafka-spark-ingestion" />
+    <option name="sourcePartitioner" value="auto" />
+  </component>
+</project>

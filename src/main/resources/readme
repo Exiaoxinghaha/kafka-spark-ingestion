@@ -1,0 +1,12 @@
+本项目是kafka和spark相结合的实时推荐系统
+
+关于kafka，本系统包含消费者和kafka streamer。 其中，kafka消费者的主要用于把消息
+持久化到存储系统。kafka streamer用于在kafka中进行流处理。
+
+关于spark，为了更好的学习和巩固spark的相关知识，本系统几乎涵盖处理图计算以外的所有
+组件。在数据处理方面使用spark sql和spark streaming，在机器学习方面使用spark ML
+
+另外，本系统所使用的存储系统包括hbase、mysql、mongodb，使用elasticsearch来作为
+检索系统。
+
+
